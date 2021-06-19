@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tariku Ahmed 
 - 👀 I’m interested in conteporary Full Stack Web Development 
 - 🌱 I’m currently learning  NodeJS, Angular, Java BootString, MongoDB
-- 💞️ I’m looking to collaborate on Full Stack Ddevelopment 
+- 💞️ I’m looking to collaborate on Full Stack Development 
 - 📫 How to reach me tarikuahmed48@gmail.com, YouTube account TeacherT
 
 <!---
